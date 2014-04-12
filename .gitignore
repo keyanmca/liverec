@@ -1,4 +1,4 @@
 composer.phar
 composer.lock
-config/aws_config.php
+config/aws*
 vendor/*
