@@ -1,4 +1,4 @@
-# LiveRec - Stream, Record, Publish - in that very order :)
+# LiveRec - Stream, Record, Publish - in that very order
 
 Run it in development mode with the following command:
 
